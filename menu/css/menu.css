@@ -39,14 +39,14 @@ h2{
 
 .item1{
     position: relative;
-    background-image: url(/menu/img/bg1.png);
+    background-image: url(..//menu/img/bg1.png);
     background-repeat: no-repeat;
     margin: 0;
     height: 180px;
 }
 .item2{
     position: relative;
-    background-image: url(/menu/img/bg2.png);
+    background-image: url(..//menu/img/bg2.png);
     background-repeat: no-repeat;
     margin: 0;
     height: 180px;
